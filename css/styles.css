@@ -1,0 +1,174 @@
+/* body > section > div > div > h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+} */
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+em{
+  color: #fff;
+}
+
+.m{
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.5rem;
+}
+
+.c{
+  font-family: 'Norican', cursive;
+  font-size: 2.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  margin: 30px;
+}
+
+.link-nav{
+  font-size: 1.5rem;
+  margin: 20px;
+}
+
+.phone{
+  position: relative;
+  border-radius: 33px;
+  height: 500px;
+}
+
+.top-div{
+  background-color: #18978F;
+  color: #fff;
+  padding: 10px 100px 100px;
+  text-align: center;
+}
+
+.title{
+  margin-top: 40px;
+}
+
+.downloadB{
+  margin: 20px;
+}
+
+.f-icon{
+  margin: 3rem auto 1rem auto;
+  color:#54BAB9;
+}
+
+.f-icon:hover{
+  color: #18978F;
+}
+
+#features{
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+  padding: 100px;
+
+  /* background-color:#F7ECDE; */
+}
+
+.div2p{
+  color: grey;
+}
+
+@media screen and (min-width:991px){
+
+  .phone{
+    transform:rotate(25deg);
+    position: absolute;
+
+    z-index: 1;
+  }
+
+}
+
+
+
+.div2{
+
+}
+
+.div3{
+  background-color:#54BAB9;
+  text-align: center;
+}
+
+#press{
+  padding-top: 100px;
+  background-color: #54BAB9;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.carousel-img{
+  width: 10rem;
+  border-radius: 100%;
+  margin:20px;
+}
+
+.carouselh2{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  margin: 50px;
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.next{
+  width: 80px;
+  height: 80px;
+}
+
+.div3im{
+  width: 15%;
+}
+
+.price{
+  padding: 100px;
+  text-align: center;
+}
+
+.cpad{
+  margin-bottom: 20px;
+}
+
+.div4{
+  background-color:#fff;
+}
+
+.div5{
+  background-color:#18978F;
+  text-align: center;
+  padding: 40px;
+  color: #fff;
+}
+
+.foot{
+  background-color:#fff;
+  text-align: center;
+  padding: 30px;
+}
+
+.foot-icon{
+  margin: 10px;
+  color: black;
+}
+
+.foot-icon:hover{
+  color: #18978F;
+}
+
+.footp{
+  color: gray;
+  font-size: 14px;
+}
